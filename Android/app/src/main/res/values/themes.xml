@@ -1,0 +1,25 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Status bar color and window background. -->
+
+        <item name="colorPrimary">@color/papaya</item>
+        <item name="colorPrimaryVariant">@color/papaya</item>
+        <item name="colorOnPrimary">@color/papaya</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/papaya</item>
+        <item name="colorSecondaryVariant">@color/papaya</item>
+        <item name="colorOnSecondary">@color/papaya</item>
+
+        <item name="android:windowBackground">@color/white</item>
+        <item name="android:statusBarColor">@color/papaya</item>
+        <item name="android:textColorPrimary">@color/white</item>
+
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowNoTitle">true</item>
+
+        <item name="android:editTextColor">@color/standardText</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+</resources>

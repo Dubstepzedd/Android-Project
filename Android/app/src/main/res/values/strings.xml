@@ -1,0 +1,93 @@
+<resources>
+    <!-- Login -->
+    <string name="app_name">Strinder</string>
+    <string name="loginHeader">Login</string>
+    <string name="login_background">Login background</string>
+    <string name="background_image_viewer">Background image</string>
+    <string name="logoContent">The logo of Strinder</string>
+    <!-- Navbar -->
+    <string name="navbar_home">Home</string>
+    <string name="navbar_plus">Add</string>
+    <string name="navbar_followers">Followers</string>
+    <string name="navbar_profile">Profile</string>
+    <string name="navbar_notifications">Notifications</string>
+    <string name="camera_desc">Take picture.</string>
+    <string name="profile_desc">Your profile image.</string>
+    <string name="upload_desc">Upload image from device.</string>
+    <string name="placeholder">Placeholder</string>
+    <string name="settings">Settings</string>
+
+    <!-- Settings -->
+    <string name="sign_out">Sign Out</string>
+    <string name="submitButtonText">Save Details</string>
+    <string name="accountText">Account</string>
+
+    <!--- Profile -->
+    <string name="amountOfActivities">Posts:</string>
+    <string name="amountOfLikesText">Likes:</string>
+    <string name="amountOfHours">Hours:</string>
+    <string name="myPostsText">My Posts</string>
+    <string name="gender_base_text">Gender: \t</string>
+    <string name="birthday_base_text">Birthday: \t</string>
+    <string name="biography_base_text">Biography: \n</string>
+
+
+    <!-- Add Post -->
+    <string name="activityStatsText">Activity Stats</string>
+    <string name="savePostButtonText">Save Post</string>
+    <string name="title">Title</string>
+    <string name="caption">Caption</string>
+    <string name="elapsedTime">Elapsed Time (HH:MM)</string>
+    <string name="postActivityText">Chooses activity.</string>
+    <string name="speed">Speed</string>
+    <string name="distance">Distance</string>
+    <string name="select_speed_unit">Select speed unit.</string>
+    <string name="select_distance_unit">Select distance unit.</string>
+    <string name="birthdayPlaceholder">YYYY/MM/DD</string>
+    <string name="genderPlaceholder">Gender</string>
+    <string name="firstnamePlaceholder">Firstname</string>
+    <string name="lastnamePlaceholder">Lastname</string>
+    <string name="biographyPlaceholder">Biography</string>
+    <string name="activityText">Activity</string>
+
+    <!-- For the dropdown -->
+    <string-array name="activities">
+        <item>Run</item>
+        <item>Cycling</item>
+        <item>Walk</item>
+    </string-array>
+
+    <string-array name="speedUnits">
+        <item>km/h</item>
+        <item>min/km</item>
+    </string-array>
+
+    <string-array name="distanceUnits">
+        <item>km</item>
+        <item>meter</item>
+    </string-array>
+
+    <!--- Post -->
+    <string name="profileImageDescription">The user\'s profile image.</string>
+    <string name="activityDescription">The activity map.</string>
+    <string name="likeDescription">Like the post.</string>
+    <string name="contentDescription">Comment on the post.</string>
+    <string name="likesPlaceholder">0 people have liked this post</string>
+    <string name="elapsed_time">Elapsed Time</string>
+    <string name="commentScrollDescription">The post\'s comments.</string>
+    <string name="add_comment">Add Comment</string>
+    <string name="addCommentPlaceholder">Enter your comment here</string>
+    <string name="backButtonDescription">Returns you to the post</string>
+    <string name="noComments">Be the first to post a comment!</string>
+    <string name="addFriendButtonDescription">Add this friend.</string>
+    <string name="friendProfileImageDescription">The user\'\'s profile image.</string>
+    <string name="unknown">Unknown</string>
+    <string name="no_found_posts_message">No posts could be found</string>
+    <string name="users_that_you_follow">Users That You Follow:</string>
+    <string name="search_for_user">Search For User</string>
+    <string name="searchResult">Your Search Gave The Following Result:</string>
+    <string name="mapViewDescription">The position that it was posted from</string>
+    <string name="loading_your_position">Loading your position…</string>
+
+
+</resources>
