@@ -1,10 +1,9 @@
-﻿# Android Project [University Project]
+﻿# Android Project
 ![Android image](https://lh3.googleusercontent.com/GTmuiIZrppouc6hhdWiocybtRx1Tpbl52eYw4l-nAqHtHd4BpSMEqe-vGv7ZFiaHhG_l4v2m5Fdhapxw9aFLf28ErztHEv5WYIz5fA)
 
 Developed by Liam Andersson and Eskil Brännerud.
 
 ## Description
-[This is a README for the lab assistants]
 
 Our app is made for athletes, where one is able to upload posts, describing how the exercise felt or went and provide stats for the exercise. Other users that follow you can then 
 like and comment your posts. If you wish to edit you account information, you can go to your profile and upload a new photo, or go to settings and change e.g your name.
@@ -114,9 +113,9 @@ Make sure that your *build.gradle* file contains these implementations if you ha
 If some classes are not found, try clearing the cache as such:
 Click **File**,  then **Invalidate Caches**. This will probably solve the issue you are facing.
 
-NOTE: The Heroku server has to be online, otherwise you will be prompted an error! You can change the heroku server url, if ours is not online - in the class ServerConnection.
+NOTE: You will need to change the url in the class ServerConnection to your local server instance as we don't have a server up and running.
 
-## Our Ambitions
+## Features
 
 We have the following features in our app, among other bonus features.
 **Main Features:**
@@ -136,7 +135,6 @@ We have the following features in our app, among other bonus features.
  - Google maps that collaborate with the GPS feature.
  - Security with Google Sign In
 
-We are aiming for the grade **5**, because we have 8 points if we count the 2 points that we received from completing our lab tasks on time.
 
 
 
